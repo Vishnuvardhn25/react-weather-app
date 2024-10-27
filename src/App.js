@@ -12,7 +12,7 @@ function App() {
       setdata(response.data)
       console.log(response.data)
     })
-    searchLocation('')
+    searchLocation('');
     }
   }
   return (
